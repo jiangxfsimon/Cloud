@@ -1,0 +1,3 @@
+com\atuigu\springcloud\service\PaymentService.class
+com\atuigu\springcloud\controller\PaymentHystrixController.class
+com\atuigu\springcloud\PaymentHystrixMain8001.class

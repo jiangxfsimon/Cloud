@@ -1,0 +1,4 @@
+com\atuigu\springcloud\service\PaymentHystrixService.class
+com\atuigu\springcloud\service\PaymentFallbakService.class
+com\atuigu\springcloud\controller\OrderHystrixController.class
+com\atuigu\springcloud\OrderHystrixMain80.class
